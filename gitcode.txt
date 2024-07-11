@@ -1,0 +1,7 @@
+touch README.md
+git init
+git checkout -b main
+git add README.md
+git commit -m "first commit"
+git remote add origin https://git.sgu-auto.fun/ma/deep.git
+git push -u origin main
