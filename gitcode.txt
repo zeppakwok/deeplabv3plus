@@ -5,3 +5,6 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://git.sgu-auto.fun/ma/deep.git
 git push -u origin main
+
+#git pull
+#git pull origin master
